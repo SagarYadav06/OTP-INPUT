@@ -7,7 +7,7 @@ const Otp = () => {
       <input type='text'/>
       <input type='text'/>
       <input type='text'/>
-       <br/>
+       
       <button>verify OTP</button>
     </div>
   )
